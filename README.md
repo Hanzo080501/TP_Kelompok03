@@ -28,7 +28,11 @@ Tugas keompok 3
 
 ```bash
     git add .
-    git commit -m "pesan melakukan perubahan apa"
+```
+```bash
+   git commit -m "pesan melakukan perubahan apa"
+```
+```bash
     git push -u origin main
 ```
 
@@ -36,6 +40,8 @@ Tugas keompok 3
 
 ```bash
     git remote -v
+```
+```bash
     git pull
 ```
 
