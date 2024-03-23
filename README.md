@@ -52,13 +52,13 @@ Tugas keompok 3
 
 pastikan branch suda di (main)
 
-kalau belum :
+ kalau belum :
 
 ```bash
     git checkout main
 ```
 
-kalau suda :
+ kalau suda :
 
 ```bash
     git remote -v
