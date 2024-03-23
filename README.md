@@ -21,7 +21,7 @@ Tugas keompok 3
 ## Clone
 
 ```bash
-  git clone
+  git clone https://github.com/Hanzo080501/TP_Kelompok03.git
   cd my-project
 ```
 
