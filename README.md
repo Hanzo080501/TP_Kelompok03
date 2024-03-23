@@ -30,7 +30,7 @@ Tugas keompok 3
     git add .
 ```
 ```bash
-   git commit -m "pesan melakukan perubahan apa"
+    git commit -m "pesan melakukan perubahan apa"
 ```
 ```bash
     git push -u origin main
