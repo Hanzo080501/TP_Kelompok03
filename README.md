@@ -22,7 +22,6 @@ Tugas keompok 3
 
 ```bash
   git clone https://github.com/Hanzo080501/TP_Kelompok03.git
-  cd my-project
 ```
 
 ## Update
@@ -42,4 +41,4 @@ Tugas keompok 3
 
 ## Demo
 
-Insert gif or link to demo
+https://hanzo080501.github.io/TP_Kelompok03/
