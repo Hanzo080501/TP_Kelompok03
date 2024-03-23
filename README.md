@@ -24,7 +24,7 @@ Tugas keompok 3
   git clone https://github.com/Hanzo080501/TP_Kelompok03.git
 ```
 
-## Seblum melakukan Update/ngoding 💻🪦
+## Sebelum melakukan Update/ngoding 💻🪦
 
 
 ```bash
